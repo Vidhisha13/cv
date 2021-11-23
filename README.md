@@ -1,2 +1,2 @@
 # cv
-My first ever website!
+My first ever website!(Basic)
